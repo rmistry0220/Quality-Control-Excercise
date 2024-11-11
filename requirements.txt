@@ -1,0 +1,5 @@
+pytest
+plotly
+pandas
+requests
+python-dotenv
